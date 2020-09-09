@@ -20,5 +20,4 @@ class App < Sinatra::Base
   erb :'/medicines/show.html'
   end
 
-
 end
